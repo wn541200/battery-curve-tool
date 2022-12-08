@@ -4,5 +4,4 @@
 2. 数据记录在手机目录 /sdcard/powerrecord.txt
 3. PowerFileParse为QT源码编译出来的工具用于解析/sdcard/powerrecord.txt绘制曲线
 
-![Image text]
-(https://github.com/wn541200/battery-curve-tool/blob/main/demo-img/%E5%85%85%E7%94%B5%E6%9B%B2%E7%BA%BF.PNG)
+![Image text](https://github.com/wn541200/battery-curve-tool/blob/main/demo-img/%E5%85%85%E7%94%B5%E6%9B%B2%E7%BA%BF.PNG)
