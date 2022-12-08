@@ -1,0 +1,252 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/3d bar chart.ico</file>
+        <file>icons/3d chart.ico</file>
+        <file>icons/3d graph.ico</file>
+        <file>icons/16 colors.ico</file>
+        <file>icons/256 colors.ico</file>
+        <file>icons/About.ico</file>
+        <file>icons/Add folder.ico</file>
+        <file>icons/Add.ico</file>
+        <file>icons/Angle.ico</file>
+        <file>icons/Apply.ico</file>
+        <file>icons/Arc.ico</file>
+        <file>icons/Arrow.ico</file>
+        <file>icons/Attach.ico</file>
+        <file>icons/Back.ico</file>
+        <file>icons/Bitmap editor.ico</file>
+        <file>icons/Brightness.ico</file>
+        <file>icons/Brush.ico</file>
+        <file>icons/Camera.ico</file>
+        <file>icons/Cancel.ico</file>
+        <file>icons/Chart xy.ico</file>
+        <file>icons/Check boxes.ico</file>
+        <file>icons/Circle.ico</file>
+        <file>icons/Clear.ico</file>
+        <file>icons/Clipboard.ico</file>
+        <file>icons/Close file.ico</file>
+        <file>icons/Close folder.ico</file>
+        <file>icons/Close.ico</file>
+        <file>icons/CMYK.ico</file>
+        <file>icons/Coffe.ico</file>
+        <file>icons/Coffee.ico</file>
+        <file>icons/Color balance.ico</file>
+        <file>icons/Color filter.ico</file>
+        <file>icons/Color layers.ico</file>
+        <file>icons/Color palette.ico</file>
+        <file>icons/Color profile.ico</file>
+        <file>icons/Color test.ico</file>
+        <file>icons/Color.ico</file>
+        <file>icons/Comment.ico</file>
+        <file>icons/Contrast.ico</file>
+        <file>icons/Copy.ico</file>
+        <file>icons/Create.ico</file>
+        <file>icons/Critical details.ico</file>
+        <file>icons/Curve points.ico</file>
+        <file>icons/Curve.ico</file>
+        <file>icons/Cut.ico</file>
+        <file>icons/Danger.ico</file>
+        <file>icons/Decrease time.ico</file>
+        <file>icons/Delete frame.ico</file>
+        <file>icons/Delete frames.ico</file>
+        <file>icons/Delete.ico</file>
+        <file>icons/Designer.ico</file>
+        <file>icons/Diagram.ico</file>
+        <file>icons/Down.ico</file>
+        <file>icons/Download image.ico</file>
+        <file>icons/Download.ico</file>
+        <file>icons/Dropper.ico</file>
+        <file>icons/Edit page.ico</file>
+        <file>icons/Edit text.ico</file>
+        <file>icons/Edit.ico</file>
+        <file>icons/Ellipse.ico</file>
+        <file>icons/E-mail.ico</file>
+        <file>icons/Equipment.ico</file>
+        <file>icons/Erase.ico</file>
+        <file>icons/Eraser.ico</file>
+        <file>icons/Error.ico</file>
+        <file>icons/Exit.ico</file>
+        <file>icons/Export.ico</file>
+        <file>icons/Favourites.ico</file>
+        <file>icons/Feather.ico</file>
+        <file>icons/File exetension.ico</file>
+        <file>icons/Fill.ico</file>
+        <file>icons/Find.ico</file>
+        <file>icons/Fine brush.ico</file>
+        <file>icons/Flip horizontally.ico</file>
+        <file>icons/Flip vertically.ico</file>
+        <file>icons/Flip.ico</file>
+        <file>icons/Flow block.ico</file>
+        <file>icons/Flower.ico</file>
+        <file>icons/Folder.ico</file>
+        <file>icons/Form.ico</file>
+        <file>icons/Forward.ico</file>
+        <file>icons/Frames.ico</file>
+        <file>icons/Funnel.ico</file>
+        <file>icons/Go down.ico</file>
+        <file>icons/Go up.ico</file>
+        <file>icons/Gpadient.ico</file>
+        <file>icons/Graphic designer.ico</file>
+        <file>icons/Graphic file.ico</file>
+        <file>icons/Graphic tools.ico</file>
+        <file>icons/Grid.ico</file>
+        <file>icons/Help book.ico</file>
+        <file>icons/Help.ico</file>
+        <file>icons/Hexagon.ico</file>
+        <file>icons/Hide.ico</file>
+        <file>icons/Hint.ico</file>
+        <file>icons/Hints.ico</file>
+        <file>icons/Home.ico</file>
+        <file>icons/Homepage.ico</file>
+        <file>icons/HSL.ico</file>
+        <file>icons/HSV.ico</file>
+        <file>icons/Ico.ico</file>
+        <file>icons/Icon wizard.ico</file>
+        <file>icons/Import.ico</file>
+        <file>icons/Increase time.ico</file>
+        <file>icons/Index.ico</file>
+        <file>icons/Info.ico</file>
+        <file>icons/Inverted color.ico</file>
+        <file>icons/Key.ico</file>
+        <file>icons/Knife.ico</file>
+        <file>icons/LAB color model.ico</file>
+        <file>icons/Layers.ico</file>
+        <file>icons/Left.ico</file>
+        <file>icons/Left-right.ico</file>
+        <file>icons/Line.ico</file>
+        <file>icons/List.ico</file>
+        <file>icons/Lock color.ico</file>
+        <file>icons/Lock transparency.ico</file>
+        <file>icons/Lock.ico</file>
+        <file>icons/Magic hat.ico</file>
+        <file>icons/Measure.ico</file>
+        <file>icons/Microsoft flag.ico</file>
+        <file>icons/Monitor.ico</file>
+        <file>icons/Monitors.ico</file>
+        <file>icons/Monochrome.ico</file>
+        <file>icons/Mouse pointer.ico</file>
+        <file>icons/Mouse.ico</file>
+        <file>icons/Move.ico</file>
+        <file>icons/Movie.ico</file>
+        <file>icons/New clip art.ico</file>
+        <file>icons/New file.ico</file>
+        <file>icons/New frame.ico</file>
+        <file>icons/New frame1.ico</file>
+        <file>icons/New image.ico</file>
+        <file>icons/New imagelist.ico</file>
+        <file>icons/New video.ico</file>
+        <file>icons/No.ico</file>
+        <file>icons/Objects.ico</file>
+        <file>icons/Ok.ico</file>
+        <file>icons/Open colors.ico</file>
+        <file>icons/Open file.ico</file>
+        <file>icons/Open v2.ico</file>
+        <file>icons/Open.ico</file>
+        <file>icons/Paint over pixels.ico</file>
+        <file>icons/Painter.ico</file>
+        <file>icons/Pantone.ico</file>
+        <file>icons/Paste.ico</file>
+        <file>icons/Pen.ico</file>
+        <file>icons/Pencil.ico</file>
+        <file>icons/Pick color.ico</file>
+        <file>icons/Picture.ico</file>
+        <file>icons/Pie chart.ico</file>
+        <file>icons/Pin.ico</file>
+        <file>icons/Pinion.ico</file>
+        <file>icons/Pixel editor.ico</file>
+        <file>icons/Pixels.ico</file>
+        <file>icons/Play.ico</file>
+        <file>icons/Preview.ico</file>
+        <file>icons/Print.ico</file>
+        <file>icons/Problem.ico</file>
+        <file>icons/Properties.ico</file>
+        <file>icons/Red book.ico</file>
+        <file>icons/Red eye removing.ico</file>
+        <file>icons/Redo.ico</file>
+        <file>icons/Refresh.ico</file>
+        <file>icons/Registration.ico</file>
+        <file>icons/Registry.ico</file>
+        <file>icons/Rename.ico</file>
+        <file>icons/Replace pixels.ico</file>
+        <file>icons/Resize image.ico</file>
+        <file>icons/Restangle.ico</file>
+        <file>icons/Revert.ico</file>
+        <file>icons/RGB.ico</file>
+        <file>icons/Right.ico</file>
+        <file>icons/Rotate CCW.ico</file>
+        <file>icons/Rotate CW.ico</file>
+        <file>icons/Rotate left.ico</file>
+        <file>icons/Rotate right.ico</file>
+        <file>icons/Rotation.ico</file>
+        <file>icons/Rounded rectangle.ico</file>
+        <file>icons/Save as.ico</file>
+        <file>icons/Save color.ico</file>
+        <file>icons/Save data.ico</file>
+        <file>icons/Save image.ico</file>
+        <file>icons/Save picture.ico</file>
+        <file>icons/Save.ico</file>
+        <file>icons/Scan film.ico</file>
+        <file>icons/Scan image.ico</file>
+        <file>icons/Scanner.ico</file>
+        <file>icons/Scenario.ico</file>
+        <file>icons/Script.ico</file>
+        <file>icons/Search computer.ico</file>
+        <file>icons/Search folder.ico</file>
+        <file>icons/Search online.ico</file>
+        <file>icons/Search text.ico</file>
+        <file>icons/Search.ico</file>
+        <file>icons/Select gpadient.ico</file>
+        <file>icons/Selection.ico</file>
+        <file>icons/Settings.ico</file>
+        <file>icons/Sharpness.ico</file>
+        <file>icons/Show.ico</file>
+        <file>icons/Sizes.ico</file>
+        <file>icons/Smooth line.ico</file>
+        <file>icons/Smooth.ico</file>
+        <file>icons/Spell checking.ico</file>
+        <file>icons/Spiral.ico</file>
+        <file>icons/Spray.ico</file>
+        <file>icons/Square.ico</file>
+        <file>icons/Stop playing.ico</file>
+        <file>icons/Stop.ico</file>
+        <file>icons/Synchronize.ico</file>
+        <file>icons/Tag.ico</file>
+        <file>icons/Target.ico</file>
+        <file>icons/Target1.ico</file>
+        <file>icons/Test line.ico</file>
+        <file>icons/Text color.ico</file>
+        <file>icons/Text replace.ico</file>
+        <file>icons/Text tool.ico</file>
+        <file>icons/Time.ico</file>
+        <file>icons/Tip of the day.ico</file>
+        <file>icons/To do list.ico</file>
+        <file>icons/Tools.ico</file>
+        <file>icons/Touch.ico</file>
+        <file>icons/Transparency.ico</file>
+        <file>icons/Transparent background.ico</file>
+        <file>icons/Transparent color.ico</file>
+        <file>icons/Triangle.ico</file>
+        <file>icons/True color.ico</file>
+        <file>icons/Undo.ico</file>
+        <file>icons/Units.ico</file>
+        <file>icons/Unlock.ico</file>
+        <file>icons/Up.ico</file>
+        <file>icons/Up-down.ico</file>
+        <file>icons/Upload image.ico</file>
+        <file>icons/Wait.ico</file>
+        <file>icons/Warning.ico</file>
+        <file>icons/Web designer.ico</file>
+        <file>icons/Webcam.ico</file>
+        <file>icons/Wide brush.ico</file>
+        <file>icons/Wizard.ico</file>
+        <file>icons/Work area.ico</file>
+        <file>icons/Writing pencil.ico</file>
+        <file>icons/Wrong.ico</file>
+        <file>icons/Yes.ico</file>
+        <file>icons/YUV color space.ico</file>
+        <file>icons/Zoom auto.ico</file>
+        <file>icons/Zoom in.ico</file>
+        <file>icons/Zoom out.ico</file>
+        <file>icons/Zoom.ico</file>
+    </qresource>
+</RCC>
