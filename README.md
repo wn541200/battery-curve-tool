@@ -5,3 +5,4 @@
 3. PowerFileParse为QT源码编译出来的工具用于解析/sdcard/powerrecord.txt绘制曲线
 
 ![Image text](https://github.com/wn541200/battery-curve-tool/blob/main/demo-img/%E5%85%85%E7%94%B5%E6%9B%B2%E7%BA%BF.PNG)
+![Image text]https://github.com/wn541200/battery-curve-tool/blob/main/demo-img/%E6%94%BE%E7%94%B5%E7%99%BE%E5%88%86%E6%AF%94.PNG
